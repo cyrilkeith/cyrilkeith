@@ -1,25 +1,60 @@
-# 👋 Hi, I'm Cyril Keith
+# Hi 👋, I'm Cyril Flores
 
-**Software Engineer**  
-Specializing in full-stack web, systems, and embedded solutions for transportation and enterprise.
+I'm a Software Engineer with more that 15 years of experience specializing in full-stack web, systems, and embedded solutions for transportation and enterprise.
 
----
+## I'm All About
 
-## 🚀 Skills & Technologies
+- Scalable System Design and Architecture
+- Modular, Reusable and Testable Code
+- Waterfall and Agile Methodologies
+- Mentorship and Team Collaboration
 
-- **Frontend & Web:** React.js, Next.js, Ant Design, Jest, Playwright
-- **Backend & APIs:** Python, REST, Strapi, Supabase, Keycloak
-- **Systems & Embedded:** C/C++, Qt/QML, QNX RTOS, Device Drivers (USB, GPIO, I2C, UART)
-- **Databases:** MySQL, PostgreSQL
-- **DevOps & CI/CD:** Docker, Git, GitLab CI, Jenkins
+## Skills & Tech Stack
 
-## 📫 Connect with Me
+### Frontend
+
+- React
+- TypeScript
+- Next.js
+- JavaScript
+- Ant Design
+- Jest
+- Playwright
+- Qt/QML
+  
+### Backend and API
+
+- Python
+- Node.js
+- RESTful APIs
+- gRPC
+- websockets
+- Supabase
+- Keycloak
+
+### Systems & Embedded
+
+- C/C++
+- Qt
+- Ubuntu Linux
+- Alpine Linux
+- QNX RTOS
+- Device Drivers (USB, GPIO, I2C, UART)
+
+### Databases:
+
+- MySQL
+- PostgreSQL
+- etcd
+
+### DevOps & CI/CD
+
+- Docker
+- Git
+- GitLab CI
+- Jenkins
+
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/cyrilkeith)
-- Email: cyrilkeith@gmail.com
-
----
-
-<!--
-Feel free to reach out regarding collaborations or interesting opportunities!
--->
+- Email: cyrilkeithflores@gmail.com
